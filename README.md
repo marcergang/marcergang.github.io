@@ -1,2 +1,3 @@
 # marcergang.github.io
-Sample webpage
+Homework - weather website
+
